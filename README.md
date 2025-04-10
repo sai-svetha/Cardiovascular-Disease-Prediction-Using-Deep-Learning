@@ -1,1 +1,1 @@
-# Cardiovascular-Disease-Prediction-Using-Deep-Learning
+# Effective-Prediction-Of-Cardiovascular-Disease-Using-Deep-Learning
